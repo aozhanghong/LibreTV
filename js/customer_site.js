@@ -3,6 +3,58 @@ const CUSTOMER_SITES = {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源',
     },
+    hongniu: {
+        api: 'http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8',
+        name: '红牛资源',
+    },
+youzhi: {
+        api: 'http://api.1080zyku.com/inc/api.php/provide/vod',
+        name: '优质资源库',
+    },
+kudian: {
+        api: 'http://api.kuapi.cc/api.php/provide/vod',
+        name: '酷点资源',
+    },
+ senlin: {
+        api: 'http://slapibf.com/api.php/provide/vod',
+        name: '森林资源',
+    },
+sandian: {
+        api: 'http://sdzyapi.com/api.php/provide/vod/from/sdm3u8',
+        name: '闪电资源',
+    },
+ guangsu: {
+        api: 'http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8',
+        name: '光速资源',
+    },
+ aosika: {
+        api: 'http://aosikazy.com/api.php/provide/vod',
+        name: '奥斯卡资源网',
+    },
+ feisu: {
+        api: 'http://feisuzy.com/api.php/provide/vod',
+        name: '飞速资源',
+    },
+aidan: {
+        api: 'http://lovedan.net/api.php/provide/vod',
+        name: '艾旦影视',
+    },
+ haiwaikan: {
+        api: 'http://haiwaikan.com/api.php/provide/vod',
+        name: '海外看资源',
+    },
+ yaya: {
+        api: 'https://cj.yayazy.net/api.php/provide/vod',
+        name: '丫丫点播',
+    },
+jisu: {
+        api: 'https://jszyapi.com/api.php/provide/vod',
+        name: '极速点播',
+    },
+ suoni: {
+        api: 'https://suoniapi.com/api.php/provide/vod',
+        name: '索尼点播',
+    },
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
@@ -25,9 +77,9 @@ const CUSTOMER_SITES = {
         name: '小猫咪资源',
     },
     ffzy: {
-        api: 'http://ffzy5.tv/api.php/provide/vod',
+        api: 'http://cj.ffzyapi.com/api.php/provide/vod',
         name: '非凡影视',
-        detail: 'http://ffzy5.tv', 
+        detail: 'http://cj.ffzyapi.com', 
     },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod',
